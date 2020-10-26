@@ -100,7 +100,7 @@ table {
 }
 
 #table_container {
-	padding-top: 120px;
+	padding-top: 50px;
 }
 
 th,
