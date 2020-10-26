@@ -1,4 +1,4 @@
-# ad_fb
+# Asteroid Display application with vue.js and firebase
 
 ## Project setup
 ```
